@@ -32,11 +32,6 @@ color-analysis-app
    cd backend
    ```
 
-2. Create a virtual environment and activate it:
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
 
 3. Install dependencies:
    ```
@@ -62,7 +57,7 @@ color-analysis-app
 
 3. Build the React app:
    ```
-   npm run build
+   npm start
    ```
 
 4. Serve the build folder using a static server or deploy it to a hosting service like Vercel or Netlify.
