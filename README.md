@@ -62,12 +62,17 @@ color-analysis-app
 
 4. Serve the build folder using a static server or deploy it to a hosting service like Vercel or Netlify.
 
-## Deployment Instructions
+## Demo
+![Image 16-03-25 at 10 31 PM](https://github.com/user-attachments/assets/6a34eb15-2418-4e3a-afcd-c95740c638ed)
+![Image 16-03-25 at 10 32 PM](https://github.com/user-attachments/assets/9bbd0ed2-1257-4948-b9c2-77afeea6ce65)
 
-### Combine Both
+![Image 16-03-25 at 10 33 PM](https://github.com/user-attachments/assets/b6650488-2d0f-4c1a-a266-91f1eb1ff990)
 
-1. Ensure the backend is running and accessible.
-2. Configure the frontend to make API calls to the backend's endpoint for color analysis.
+## Video Demo
+
+
+https://github.com/user-attachments/assets/a292d66d-5e1d-4443-a63b-5839d846e53c
+
 
 ## License
 
